@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.1.0</Version>
+    <Description>General extension methods for use in .NET applications</Description>
+    <Authors>Ian Valverde</Authors>
   </PropertyGroup>
 
 </Project>
